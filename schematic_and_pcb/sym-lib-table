@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Portier_connecte-rescue)(type Legacy)(uri ${KIPRJMOD}/Portier_connecte-rescue.lib)(options "")(descr ""))
+)
