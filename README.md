@@ -14,12 +14,14 @@ There is also a static relay to swith on a light or other actuators. It integrat
 
 
 
-I share also the drawing and the pcp in this repository.
+I share also the drawing and the pcb in this repository.
 
 
 ![Picture of current status](http://innogreentech.fr//images/Photos/camera/camera_m.jpg)
 
-**Contributing**
+
+Contributing:
+-------------
 
 Fork it
 Create your feature branch (git checkout -b my-new-feature)
